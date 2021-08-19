@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/1629290363678-45409f05-34a2-45d4-a29e-4cf792373621/__MACOSX/todolist" />
+        <option name="gradleHome" value="D:/BuildTools/gradle-7.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/1629290363678-45409f05-34a2-45d4-a29e-4cf792373621/__MACOSX/todolist" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/1629290363678-45409f05-34a2-45d4-a29e-4cf792373621/todolist" />
+        <option name="gradleHome" value="D:/BuildTools/gradle-7.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/1629290363678-45409f05-34a2-45d4-a29e-4cf792373621/todolist" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
